@@ -1,6 +1,8 @@
 # resolve-bulk-exporter
 A DaVinci Resolve script to allow a user to select many timelines at once to add to the render queue.
 
+![alt text](bulk-exporter.jpg)
+
 INSTALLATION:
 Download the .py file and insert into `C:\ProgramData\Blackmagic Design\DaVinci Resolve\Fusion\Scripts\Deliver` or the equivelent on your OS.
 
